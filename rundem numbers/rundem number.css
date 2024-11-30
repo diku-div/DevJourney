@@ -1,0 +1,27 @@
+.a{
+    text-align: center;
+    text-decoration: wavy;
+    color: blue;
+    font-size: xx-large;
+    padding: auto 5px auto 5px;
+    margin: auto 30px;
+    
+    
+}
+#case4{
+    text-align: center;
+    font-size: larger;
+    margin: 100px auto auto auto;
+}
+#case5{
+border-color: aquamarine;
+color: rgb(0, 0, 0);
+font-size: medium;
+border-radius: 30px;
+margin-top: 30px;
+}
+
+
+#case.hover{
+    color: red;
+}
